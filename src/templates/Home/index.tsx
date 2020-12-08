@@ -92,8 +92,8 @@ export default function Home({ title = 'Jobs' }: Pick<Jobs, 'title'>) {
   }
 
   const user = {
-    name: 'Cristiano',
-    email: 'cristianomorgante@hotmail.com'
+    name: 'SmartMei',
+    email: 'smartmei@contato.com'
   }
 
   const handleApplication = async (job: string | undefined) => {
